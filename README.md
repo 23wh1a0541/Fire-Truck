@@ -29,7 +29,9 @@ Animated fire truck movement with siren
 
 ▶️ How to Run
 git clone https://github.com/23wh1a0541/fire-truck-routing.git
+
 cd fire-truck-routing
+
 python main.py
 
 
