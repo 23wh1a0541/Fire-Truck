@@ -1,4 +1,6 @@
 🚒 Fire Truck Routing System
+
+
 📌 Overview
 
 The Fire Truck Routing System is a Python-based GUI application that finds optimal emergency routes from a fire station to a fire location while avoiding obstacles. The system computes all possible paths and highlights the shortest route using graph traversal techniques.
